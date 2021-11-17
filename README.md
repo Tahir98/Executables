@@ -1,3 +1,3 @@
 # Executables
 
-I upluad my demo executables here
+I upload my demo executables here
